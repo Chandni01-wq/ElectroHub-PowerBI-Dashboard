@@ -54,13 +54,15 @@ An interactive Power BI dashboard built for a retail electronics company (Electr
 ![Overview](Screenshots/Overview.png)
 
 ### 2. Top & Bottom 5 Analysis
-![TopBottom5](Screenshots/TopBottom 5 Analysis.png)
+![TopBottom5] (Screenshots/TopBottom 5 Analysis.png)
+
 
 ### 3. Sales Comparison
 ![Comparison](Screenshots/Comparison.png)
 
 ### 4. Detailed Sales Records
 ![Detailed Sales Records](Screenshots/Detailed Sales Record.png)
+
 
 ### 5. Edit Interaction
 ![Edit Interaction](Screenshots/Edit Intraction.png)
