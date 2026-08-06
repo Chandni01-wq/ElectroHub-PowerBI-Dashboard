@@ -48,7 +48,22 @@ An interactive Power BI dashboard built for a retail electronics company (Electr
 2. Open in Power BI Desktop
 3. Use the date filters, slicers, and drill-down controls on each page to explore the data interactively
 
-Screenshots of each page are available in the `screenshots/` folder for a quick preview without opening the file.
+## Dashboard Pages
+
+### 1. Overview
+![Overview](Screenshots/Overview.png)
+
+### 2. Top & Bottom 5 Analysis
+![TopBottom5](Screenshots/TopBottom 5 Analysis.png)
+
+### 3. Sales Comparison
+![Comparison](Screenshots/Comparison.png)
+
+### 4. Detailed Sales Records
+![Detailed Sales Records](Screenshots/Detailed Sales Record.png)
+
+### 5. Edit Interaction
+![Edit Interaction](Screenshots/Edit Intraction.png)
 
 ---
 *Built as part of a Data Analyst portfolio project.*
