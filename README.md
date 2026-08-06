@@ -54,7 +54,7 @@ An interactive Power BI dashboard built for a retail electronics company (Electr
 ![Overview](Screenshots/Overview.png)
 
 ### 2. Top & Bottom 5 Analysis
-![TopBottom5] (Screenshots/TopBottom5Analysis.png)
+![TopBottom5](Screenshots/TopBottom5.png)
 
 
 
